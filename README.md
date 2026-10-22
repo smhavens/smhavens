@@ -4,13 +4,13 @@ Software engineer with 3+ years of experience building data-driven applications,
 
 **Core skills:** Python · C# / .NET 8 · SQL (SQL Server, MySQL) · REST APIs · React · Java · Docker · AWS · Git · Power BI
 
-[GitHub](https://github.com/smhavens) · [Website](https://havensmila.com) · [LinkedIn](https://www.linkedin.com/in/mila-havens/) · [Email](havenssydneym@gmail.com)
+[GitHub](https://github.com/smhavens) · [Website](https://havensmila.com) · [LinkedIn](https://www.linkedin.com/in/mila-havens/) · [Email](mailto:havenssydneym@gmail.com)
 
 ---
 
 ## About me
 
-[2-3 sentences: your background, the work you want next, and what you care about. For example: "I'm interested in building software that supports research and healthcare teams, especially data pipelines, APIs, and tools that make complex data easier to use."]
+Software engineer with experience in data systems, backend APIs, and XR. I’m looking for roles building software for healthcare and research teams.
 
 ---
 
@@ -21,7 +21,7 @@ Software engineer with 3+ years of experience building data-driven applications,
 | [Insta485: full-stack photo-sharing app](#insta485-full-stack-photo-sharing-app) | SQL schema design, REST API, React front end | Python, Flask, SQLite, React, pytest | On request |
 | [Distributed MapReduce framework](#distributed-mapreduce-framework) | Distributed systems, fault tolerance, sockets, threading | Python, TCP/UDP, threads | On request |
 | [Hadoop inverted-index pipeline](#hadoop-inverted-index-pipeline-search-engine) | Data processing pipelines | Python, Hadoop Streaming, SQL | On request |
-| [Mutation testing and fuzzing](#mutation-testing-and-fuzzing-a-python-calculator) | Test quality and automated testing | Python, unittest, MutPy, Atheris | [Add link if public] |
+| [Mutation testing and fuzzing](#mutation-testing-and-fuzzing-a-python-calculator) | Test quality and automated testing | Python, unittest, MutPy, Atheris |
 | [AnalogyArcade](#analogyarcade-nlp-word-game) | ML model evaluation, deployment, documentation | Python, Gradio, Hugging Face | [Public](https://github.com/smhavens/NLPCategoryGame) |
 | [Personal Cookbook](#personal-cookbook-desktop-app) | Requirements, design, and testing across a full project lifecycle | Python, PyQt5, pandas | [Public](https://github.com/smhavens/CSI5220) |
 | [Interesting-Co (Rememri)](#interesting-co-rememri-android-ar-app) | Mobile front end, API integration, teamwork | Android, Mapbox, ARCore, Flask, Firebase | [Public wiki](https://github.com/michigan224/Interesting-Co/wiki) |
@@ -190,4 +190,4 @@ Software engineer with 3+ years of experience building data-driven applications,
 
 ## Contact
 
-I'm open to software engineering roles, especially in data systems, back-end and API development, and healthcare or research technology. The best way to reach me is [Email](havenssydneym@gmail.com).
+I'm open to software engineering roles, especially in data systems, back-end and API development, and healthcare or research technology. The best way to reach me is [Email](mailto:havenssydneym@gmail.com).
